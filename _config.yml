@@ -3,14 +3,15 @@ markdown:         redcarpet
 pygments:         true
 
 # Permalinks
-permalink:        /post/:title
+permalink: pretty
+relative_permalinks: true
 
 # Setup
 title:            "Se7enTime"
 description:      "Al Banna lagi nulis atau lagi copy-paste"
 url:              blog.zazakhuna.com
 baseurl:          "/"
-paginate:         10
+paginate:         7
 
 author:
   name:           "Al Banna"
