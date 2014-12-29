@@ -1,0 +1,20 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        /post/:title
+
+# Setup
+title:            "Se7enTime"
+description:      "Al Banna lagi nulis atau lagi copy-paste"
+url:              http://blog.zazakhuna.com
+baseurl:          "/"
+paginate:         10
+
+author:
+  name:           "Al Banna"
+
+# Custom vars
+twitter:        https://twitter.com/Se7enTime
+github:         https://github.com/Se7enTime
