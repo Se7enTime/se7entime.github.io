@@ -8,7 +8,7 @@ permalink:        /post/:title
 # Setup
 title:            "Se7enTime"
 description:      "Al Banna lagi nulis atau lagi copy-paste"
-url:              http://blog.zazakhuna.com
+url:              blog.zazakhuna.com
 baseurl:          "/"
 paginate:         10
 
