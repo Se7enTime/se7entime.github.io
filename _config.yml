@@ -19,3 +19,6 @@ author:
 # Custom vars
 twitter:        https://twitter.com/Se7enTime
 github:         https://github.com/Se7enTime
+
+# Your disqus shortname, entering this will enable commenting on posts
+disqus: se7entimegithubio
