@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Baru tau Google punya ginian
+comments: true
 ---
 
 http://www.google.com/transparencyreport/
