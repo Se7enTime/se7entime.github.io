@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Manjaro Update 2014-12-25 (Stable)
+published: true
 ---
 We are happy to announce our third update for Manjaro 0.8.11.
 
