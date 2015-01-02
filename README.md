@@ -1,14 +1,13 @@
 ## Author
-
-**Se7enTime**
-- <https://github.com/Se7enTime>
-- <https://twitter.com/Se7enTime>
-
-## Original Author
-
 **Mark Otto**
 - <https://github.com/mdo>
 - <https://twitter.com/mdo>
+
+## Edited By
+
+**Se7enTime**
+- <http://www.kaskus.co.id/profile/912636>
+- <https://twitter.com/Se7enTime>
 
 ## License
 
