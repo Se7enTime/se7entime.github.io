@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Katakan Halo
-permalink: /kontak/
 ---
 <div class="py2">
 <form action="https://formspree.io/{{ site.email }}" method="POST" class="form-stacked form-light">
