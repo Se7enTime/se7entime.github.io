@@ -12,6 +12,7 @@ description:      "Al Banna lagi nulis atau lagi copy-paste"
 url:              blog.zazakhuna.com
 baseurl:          "/"
 paginate:         7
+email:            hasanalbanna@mail.ru
 
 author:
   name:           "Al Banna"
